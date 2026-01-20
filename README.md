@@ -1,10 +1,8 @@
-Below is an **expanded, beginner-friendly, and visually attractive README section**, written in **professional GitHub style** while remaining easy to understand.
 
-You can paste this **directly** into your `README.md`.
 
 ---
 
-````md
+
 ## Learning TypeScript
 ---
 This repository is created to help beginners learn TypeScript step by step. It focuses on understanding core concepts through simple explanations, practical examples, and hands-on exercises.
