@@ -69,6 +69,7 @@ If you find something that can be improved, feel free to open an issue or submit
 * ✅ Day 1 — Basics, functions, and union types
 * ✅ Day 2 — Types, never, and custom types
 * ✅ Day 3 — Interface, Advanced Types
+* ✅ Day 4 — Basic OPPs,Enum, Advanced Types
 * ⏳ More lessons coming soon...
 
 ---
