@@ -70,6 +70,7 @@ If you find something that can be improved, feel free to open an issue or submit
 * ✅ Day 2 — Types, never, and custom types
 * ✅ Day 3 — Interface, Advanced Types
 * ✅ Day 4 — Basic OPPs,Enum, Advanced Types
+* ✅ Day 5 — Advanced OOPs
 * ⏳ More lessons coming soon...
 
 ---
