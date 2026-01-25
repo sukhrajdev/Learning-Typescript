@@ -71,6 +71,7 @@ If you find something that can be improved, feel free to open an issue or submit
 * ✅ Day 3 — Interface, Advanced Types
 * ✅ Day 4 — Basic OPPs,Enum, Advanced Types
 * ✅ Day 5 — Advanced OOPs
+* ✅ Day 6 — Finish TypeScript journey and now learning in Deepth
 * ⏳ More lessons coming soon...
 
 ---
